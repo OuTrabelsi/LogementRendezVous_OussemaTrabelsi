@@ -9,7 +9,7 @@ public class RestApplicationConfig extends Application {
     public Set<Class<?>> getClasses() {
         Set<Class<?>> classes = new HashSet<>();
         classes.add(restapi.LogementResource.class);
-        classes.add(restapi.RendezVousResource.class);  // Add this line
+        classes.add(restapi.RendezVousResource.class);  
         return classes;
     }
 }
