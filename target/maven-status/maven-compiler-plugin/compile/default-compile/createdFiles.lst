@@ -1,0 +1,4 @@
+entities\Logement.class
+metiers\RendezVousBusiness.class
+metiers\LogementBusiness.class
+entities\RendezVous.class
